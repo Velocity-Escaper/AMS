@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" initial-scale="1.0" user-scalable="no" shrink-to-fit="yes">
+
+
+    <title>A.M.S for Natural Food Products</title>
+    </head>
+    
+    <body>
+    
+    <section id= "home">
+      
+      
+    <div class="navbar">
+        <div class="logo">
+            <img class= "img" src= "https://s8.gifyu.com/images/ams-re.png" alt="ams-re.png"> 
+              </div>  
+
+        
+
+        <div class="navlinks">
+            <ul>
+            <li class="en"><a href="english-menu.html" class="A1"target="_self">English</a></li>
+            <li class="ar"><a href="ar-menu.html" class="A1" target="_self">العــــــــــربيــــــــــــة</a></li>
+            </ul>
+
+        </div>        
+        </section>
+        
+        
+        <section id= "menu-en">
+             
+    <div class="navbar">
+        <div class="logo">
+            <img class= "img" src="https://s8.gifyu.com/images/ams-re.png" alt="ams-png"> 
+              </div>
+     
+      
+
+        <div class="navlinks">
+            <ul>
+            <li><a href="#about-en" class="A1"target="_self">About</a></li>
+            <li><a href="#products-en" class="A1" target="_self">Products</a></li>
+            <li><a href="#contact-en" class="A1" target="_self">Contact</a></li>
+            <li><a href="#home" class="A1" target="_self">&#x276E;&#x276E;&nbsp; Back</a></li>
+
+
+
+            </ul>
+
+        </div>             
+            
+             </section>
+             
+             
+             <section id= "about-en">
+                
+    <div class="navbar">
+        <div class="logo">
+            <img class= "img" src="https://s8.gifyu.com/images/ams-re.png" alt="ams-png"> 
+              </div>
+
+
+              
+    <div class="about-text">
+           
+        <h4>Thank You for viewing our website! </h4>
+        <br>
+        <h4>A.M.S is a registered company that specializes in natural Food and Beverages, trading inside The Arab Republic of Egypt.</h4>
+        <br>
+       <h4>We are passionate about bringing you high quality, natural products from Egypt's oasis to your home tables, coffee corners, or even your BackPacks!</h4>
+        <br>
+       <h4> Enjoy surfing our website and don't hesitate contacting us for any orders or inquiries you might have!</h4>
+        
+        <br>
+        <h4>A.M.S Team</h4>
+        </div>
+
+
+
+    <div class="nav-link">
+        <ul>
+            <li><a href="english-menu.html" class="A1" target="_self">&#x276E;&#x276E;&nbsp; Back</a></li>
+        </ul>
+    </div>   
+    </section>
+    
+    
+    <section id= "products-en">       
+        
+    <div class="products-text">
+        <h5>
+            Our healthy brand "MazzaG" comes from SIWA oasis in Egypt which is well known for its Date fruit, Olives, Mint, Lemon, and other natural herbs!
+        </h5>
+    </div>
+
+    
+
+    <div class="palm-img">
+        <img class="palm-pic" src="https://s4.gifyu.com/images/palm2.jpg" alt="palm2.jpg">
+    </div>
+
+
+    <div class="fruit-pic">
+        <img class="dates-pic" src="https://s4.gifyu.com/images/Gold-Special-Date-Fruit3ecf51fd1cbe14ce.png" alt="Date-Fruit">
+    </div>
+
+
+    <div class="products-pic">
+        <img class="products-img" src="https://s4.gifyu.com/images/products.jpg" alt="products.jpg">
+    </div>
+
+
+    <div class="mazzag-logo">
+        <img class= "mazzag-pic" src="https://s4.gifyu.com/images/mazzag-green.jpg" alt="mazzag-green.jpg">
+        </div>
+
+
+    <div class="mazzag-logo2">
+        <img class= "mazzag-red" src="https://s4.gifyu.com/images/mazzag-red.jpg" alt="mazzag-red.jpg">
+    </div>    
+
+
+
+    <div class="mazzag-logooo">
+        <img class= "mazzag-pics" src="https://s4.gifyu.com/images/mazzag-green.jpg" alt="mazzag-green.jpg">
+        </div>
+
+
+
+        <div class="nav-link">
+            <ul>
+                <li><a href="english-menu.html" class="A1" target="_self">&#x276E;&#x276E;&nbsp; Back</a></li>
+            </ul>
+        </div>      
+        </section>
+        
+        
+        <section id= "contact-en">
+           
+           
+           
+    <div class="logo">
+        <img class= "img" src="https://s8.gifyu.com/images/ams-re.png" alt="ams-png"> 
+          </div>
+
+    <div class="email-symbol">
+        &#9993;
+    </div>
+
+    <div class="contact-text1">
+        <h5>
+            We &#10084; to hear from you!
+        </h5>
+    </div>
+
+
+
+    <div class= "contact-text2">
+        Drop a line to:
+    </div>
+
+
+    <div class= "email">
+        <h5>abdallahmustafa432@gmail.com</h5>
+    </div>
+
+
+    <div class="nav-link">
+        <ul>
+            <li><a href="english-menu.html" class="A1" target="_self">&#x276E;&#x276E;&nbsp; Back</a></li>
+        </ul>
+    </div>   
+    </section>
+    
+    
+    
+    
+    <section id= "menu-ar">
+    
+      <div class="navbar">
+        <div class="logo">
+            <img class= "img" src="https://s8.gifyu.com/images/ams-re.png" alt="ams.png" alt="AMS"></a> 
+              </div>
+               
+        <div class="navlinks">
+            <ul>
+            <li><a href="#about-ar" class="A1"target="_self">اعــــــــــرف المـــــــــزيد</a></li>
+            <li><a href="#products-ar" class="A1" target="_self">منــــــــــــتجاتنـــــا</a></li>
+            <li><a href="#contact-ar" class="A1" target="_self">تــــــــــواصـــــــــل مــــــــــــــعنا</a></li>
+            <li><a href="#home" class="A1" target="_self">&#x276E;&#x276E; &nbsp; عـــــــــــــــــــــــودة</a></li>
+
+            </ul>
+
+        </div>        
+        </section>
+        
+        
+        <section id= "about-ar">
+           <div class="navbar">
+        <div class="logo">
+            <img class= "img" src="https://s8.gifyu.com/images/ams-re.png" alt="ams-png"> 
+              </div>
+
+
+              <div class="about-text">
+           
+                <h4>شكراً جزيلاً لزيارتكم موقعنا </h4>
+                <br>
+                <h4>اية ام اس هي شركة متخصصة في تجارة التمور والعجوة والأعشاب الطبيعية داخل جمهورية مصر العربية ويقع مقرها الإداري بمحافظة الإسكندرية</h4>
+                <br>
+               <h4>هدفنا هو إتاحة المنتجات الغذائية الطبيعية عالية الجودة من الطبيعة بواحات مصر إليك مباشرة بدون إضافات أو مواد حافظة  </h4>
+                <br>
+               <h4>لا تتردد في التواصل معنا عن طريق البريد الإلكتروني إذا كان لديك استفسار أو طلب </h4>
+                
+                <br>
+                <h4>فريق اية ام اس</h4>
+                </div>
+        
+                <div class="nav-link">
+                    <ul>
+                        <li><a href="ar-menu.html" class="A1" target="_self">&#x276E;&#x276E;&nbsp; عـــــــــــــــــــــــودة</a></li>
+                    </ul>
+                </div>   
+                </section>
+                
+                
+                <section id= "products-ar">
+                    
+    <div class="products-text">
+        <h5>
+التمور والأعشاب الطبيعية الخاصة بنا تحمل اسم مـــــزاج، وتأتي من واحة سيوة بمصر من خير الطبيعة إليك مباشرة  
+</h5>                                                                                                                          
+    </div>
+
+    
+
+    <div class="palm-img">
+        <img class="palm-pic" src="https://s4.gifyu.com/images/palm2.jpg" alt="palm2.jpg">
+    </div>
+
+
+    <div class="fruit-pic">
+        <img class="dates-pic" src="https://s4.gifyu.com/images/Gold-Special-Date-Fruit3ecf51fd1cbe14ce.png" alt="Date-Fruit">
+    </div>
+
+
+    <div class="products-pic">
+        <img class="products-img" src="https://s4.gifyu.com/images/products.jpg" alt="products.jpg">
+    </div>
+
+
+    <div class="mazzag-logo">
+        <img class= "mazzag-pic" src="https://s4.gifyu.com/images/mazzag-green.jpg" alt="mazzag-green.jpg">
+        </div>
+
+
+    <div class="mazzag-logo2">
+        <img class= "mazzag-red" src="https://s4.gifyu.com/images/mazzag-red.jpg" alt="mazzag-red.jpg">
+    </div>    
+
+
+
+    <div class="mazzag-logooo">
+        <img class= "mazzag-pics" src="https://s4.gifyu.com/images/mazzag-green.jpg" alt="mazzag-green.jpg">
+        </div>
+
+
+
+        <div class="nav-link">
+            <ul>
+                <li><a href="ar-menu.html" class="A1" target="_self">&#x276E;&#x276E;&nbsp; عـــــــــــــــــــــــودة</a></li>
+            </ul>
+        </div>      
+        </section>
+        
+        
+        <section id= "contact-ar">
+           <div class="logo">
+        <img class= "img" src="https://s8.gifyu.com/images/ams-re.png" alt="ams-png"> 
+          </div>
+
+    <div class="email-symbol">
+        &#9993;
+    </div>
+
+    <div class="contact-text1">
+        <h5>
+            يُسعدنا تواصلكم معنا
+        </h5>
+    </div>
+
+
+
+    <div class= "contact-text2">
+        من فضلك لا تتردد في التواصل معنا عبر بريدنا الإلكتروني
+    </div>
+
+
+    <div class= "email">
+        <h5>abdallahmustafa432@gmail.com</h5>
+    </div>
+
+
+    <div class="nav-link">
+        <ul>
+            <li><a href="ar-menu.html" class="A1" target="_self">&#x276E;&#x276E;&nbsp; عـــــــــــــــــــــــودة</a></li>
+        </ul>
+    </div>   
+    </section>
+    
+    </body>
+    
+    
+    <style>
+    
+    * {
+
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+       scroll-behavior: smooth;
+       list-style: none;
+       text-decoration: none;
+       outline: none;
+       user-select: none;       
+       background-color: #010048;
+       flex-shrink: 1;
+       text-align: center;
+    }
+    
+                                          /* home main page style */  
+    
+    #home .navbar {
+    
+            width: 100%;
+            height: 100vh;                 /* controls height of the page */
+            background-color: #010048;
+            text-align: center;
+            
+        }
+        
+        
+   #home .navbar .logo .img {
+   
+            border-radius: 50%;
+            width: 450px;
+            position: relative;
+            top: 25px;
+            right: 0%;      
+            border-radius: 50%; 
+            outline: none;
+            margin: 0;
+            padding: 0;
+            border: 3px solid #293d3d;
+              
+
+        }
+        
+        
+#home .logo .img:hover {border: 15px solid #010048;; width: 380px; transition: 1s;}
+
+
+#home  .navlinks {
+
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: bolder;
+            font-size: 25px;
+            text-transform: uppercase;
+            position: relative;
+            top: 45px;                   /* This line defines position from the very top side of the page */
+            
+        }
+        
+#home .navlinks li a  {                  
+            display:block;  
+            padding: 15px;  
+            color: white;  
+            padding-top: 35px;              /* This line controls vertical space between list items */ 
+        
+        }      
+        
+        
+#home  .navlinks li a:hover {            
+           
+            border-radius: 120px;
+            background-color: darkcyan;
+            padding: 16px 36px;
+            transition: 0.25s;
+            color: white;
+            border: 1px solid white;
+
+        
+        }   
+        
+                                               /* English Menu style */
+                                               
+  #menu-en .navbar {
+  
+          width: 100%;
+          height: 100vh;                 /* controls height of the page */
+          background-color: #010048;
+          text-align: center;
+
+}     
+
+
+#menu-en .navbar .logo .img  {
+
+          border-radius: 50%;
+          width: 450px;           /* according to how long is your nav list */ 
+          position: relative;
+          top: 20px;
+          right: 0%;      
+          border-radius: 50%; 
+          outline: none;
+          margin: 0;
+          padding: 0;
+          border: 3px solid darkslategray;           
+
+}
+
+
+#menu-en .logo .img:hover {border: 12px solid #010048; width: 400px; transition: 1s;}
+
+#menu-en .navlinks {
+
+         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         font-weight: bolder;
+         font-size: 25px;
+         text-transform: uppercase;
+         position: relative;
+         top: 35px;             /* This must be one in all menu pages or to be adapted later */
+
+}
+
+
+#menu-en .navlinks li a {    
+
+          display:block;  
+          padding: 15px;  
+          color: white;   
+          padding-top: 15px;   /* This line controls vertical space between list items */
+
+}
+
+
+#menu-en .navlinks li a:hover { 
+      
+
+         border-radius: 120px;
+         background-color:darkcyan;
+         padding: 16px 26px;
+         transition: 0.25s;
+         color:white;
+         border: 0.10px solid white;
+
+
+}  
+
+                              /* about english style */
+                              
+
+#about-en .navbar {
+
+        width: 100%;
+        height: 100vh;                 /* controls height of the page */
+        background-color: #293d3d;
+        text-align: center;
+
+}
+
+
+#about-en .navbar .logo .img  {
+            border-radius: 50%;
+            width: 360px;           /* according to how long is your nav list */ 
+            position: relative;
+            top: 25px;
+            right: 0%;      
+            border-radius: 50%; 
+            outline: none;
+            margin: 0;
+            padding: 0;
+            border: 3px solid darkslategray;
+            
+}
+
+
+#about-en .logo .img:hover {border: 12px solid #293d3d; width: 320px; transition: 1s;}
+
+#about .about-text  h4 {
+
+           color: white;
+           font-size: 22px;
+           position: relative;
+           top: 45px;
+           left: 5px;
+}
+
+
+#about-en .nav-link {
+
+          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          font-weight: bolder;
+          font-size: 22px;
+          text-transform: uppercase;
+          position: relative;
+          top: 60px;             /* This must be one in all menu pages or to be adapted later */
+
+
+}
+
+
+#about-en .nav-link li a {     
+
+          display:block;  
+          padding: 15px;  
+          color: white;   
+          padding-top: 15px;   /* This line controls vertical space between list items */
+
+}
+
+
+#about-en .nav-link li a:hover {             
+
+          border-radius: 120px;
+          background-color:darkcyan;
+          padding: 16px 26px;
+          transition: 0.25s;
+          color:white;
+          border: 0.10px solid white;
+
+
+}   
+
+
+                                                     /* products english style */
+                                                     
+#products-en .mazzag .mazzag-img {
+
+         width: 200px;
+         position: absolute;
+         top: 5px;
+         left: 45%;
+}    
+
+
+#products-en .products-text  {
+
+        font-size: 25px;
+        color: white;
+        position:relative;
+        top: 40px;
+        background-color: transparent;
+
+}
+
+
+#products-en .palm-img .palm-pic {
+
+        width: 360px;
+        position: absolute;
+        top: 90px;
+        left: 35%;
+    
+    
+}
+
+#products-en .fruit-pic .dates-pic {
+
+        width: 360px;
+        position: absolute;
+        top: 615px;
+        left: 35%;
+}
+
+
+#products-en .products-pic .products-img {
+
+        width: 450px;
+        position:absolute;
+        top: 980px;
+        left: 32%;
+}
+
+
+#products-en .mazzag-logo .mazzag-pic {                /* first one before the text */
+
+        width: 250px;
+        position: absolute;
+        top: 100px;
+        left: 38%;
+}
+
+
+#products-en .mazzag-logo2 .mazzag-red {
+
+        width: 250px;
+        position: absolute;
+        top: 725px;
+        left: 40%;
+
+}
+
+
+#products-en .nav-link li a {
+
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       font-weight: bolder;
+       font-size: 25px;
+       text-transform: uppercase;
+       position: relative;
+       top: 450px;
+       right: 30%;    
+       color: red; 
+
+
+}
+
+
+#products-en .nav-link li a:hover {             
+
+       border-radius: 120px;
+       background-color:darkcyan;
+       padding: 16px 16px;
+       transition: 0.25s;
+       color: yellow;
+       border: 0.10px solid white;
+
+
+}   
+
+#products-en .mazzag-logooo .mazzag-pics {
+
+       width: 250px;
+       position: absolute;
+       top: 985px;
+       left: 40%;
+
+}
+
+                                                            /* contact english style */
+                                                            
+                                                            
+                                                            
+#contact-en  .logo .img  {
+
+            border-radius: 50%;
+            width: 25%;           /* according to how long is your nav list */ 
+            position: absolute;
+            top: 20px;
+            left: 37%;      
+            border-radius: 50%; 
+            outline: none;
+            margin: 0;
+            padding: 0;
+            border: 3px solid darkslategray;
+            
+}
+
+#contact-en .logo .img:hover {border: 10px solid aqua; width: 330px; transition: 1s;}
+
+#contact-en  .contact-text1 {
+
+        position:absolute;
+        top: 45%;
+        color:white;
+        left: 38%;
+        font-size: 40px;
+
+    }
+    
+    
+#contact-en  .contact-text2 {
+
+        position: absolute;
+        top: 58%;
+        color: white;
+        left: 38%;
+        font-size: 40px;
+    }    
+    
+    
+    
+#contact-en  .email {
+
+        position: absolute;
+        top: 70%;
+        color: aqua;
+        left: 38%;
+        font-size: 40px;
+    }
+    
+    
+#contact-en .email-symbol {
+
+        position: absolute;
+        top: 63%;
+        left: 30%;
+        font-size: 90px;
+        color: yellow;
+        
+    }    
+    
+    
+#contact-en  .nav-link {                /* Back Button */
+
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       font-weight: bolder;
+       font-size: 22px;
+       text-transform: uppercase;
+       position: absolute;
+       bottom: 10%;  
+       left: 45%; 
+
+
+}
+
+
+#contact-en  .nav-link li a {                    
+       display:block;  
+       padding: 15px;  
+       color: white;   
+       padding-top: 15px;   /* This line controls vertical space between list items */
+
+}
+
+#contact-en .nav-link li a:hover {             
+
+border-radius: 120px;
+background-color:darkcyan;
+padding: 16px 26px;
+transition: 1s;
+color: yellow;
+border: 0.10px solid white;
+
+
+}   
+
+#contact-en  .contact-text1:hover {transition: 1s; color: aqua;}
+#contact-en  .contact-text2:hover {transition: 1s; color: aqua;}
+#contact-en  .email:hover {transition: 1s; color: yellow;}
+
+
+                                                              /* Arabic Style */ 
+    
+
+
+
+
+
+              
+                              
+
+        
+        
+        
+        
+        
+        
+
+
+
+    
+    
+
+
+
+        
+
+
+
+
+                    
+
+        
+        
+        
+        
+        
+        
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
