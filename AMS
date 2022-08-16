@@ -1069,6 +1069,263 @@ border: 0.10px solid white;
 
 
 
+                                                           /* styling for mobile devices */
+                                                           
+@media (max-width: 550px) {
+
+     #home  .navbar .logo .img {
+                width: 80%;
+                border-color: transparent;
+                
+            }
+            
+   #menu-en .navbar {background-color: #010048;}
+
+  #menu-en  .navbar .logo .img {
+        width: 85%;
+        position: absolute;
+        top: 15%;
+        left: 10%;
+    }
+
+
+   #menu-en .navlinks {
+        position: absolute;
+        top: 50%;
+        left: 28%;      
+        }
+        
+        
+        /* products English */
+        
+ #products-en  .mazzag-logo .mazzag-pic {
+        position: absolute;
+        top: 23%;
+        left: 30%;
+    }
+
+
+ #products-en   .products-text {
+        position:absolute;
+        top: 30%;
+        left: 30%;
+        color: yellow;
+        z-index: 100;
+    }
+
+#products-en    .palm-img .palm-pic {
+        position: absolute;
+        top: 10%;
+        left: 15%;
+
+
+    }
+
+#products-en    .mazzag .mazzag-img {
+        position: absolute;
+        top: 10%;
+        left: 25%;
+
+    }
+      
+
+#products-en  .nav-link li a {color: red;}
+
+
+#products-en  .products-pic .products-img {
+        position:absolute;
+        left: 0;
+    }
+
+
+#products-en  .fruit-pic .dates-pic {
+        position: absolute;
+        left: 15%;
+    }
+
+#products-en   .mazzag-logooo .mazzag-pics {
+
+        position: absolute;
+        left: 30%;         
+            
+            }
+            
+            
+        /* contact English */ 
+        
+
+ #contact-en   .logo .img {
+        width: 350px;
+        position: absolute;
+        top: 8%;
+        left: 16%;
+    }
+
+
+#contact-en    .nav-link {
+        width: 360px;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 110%;
+        left: 15%;
+        font-size: 35px;
+
+    }
+
+#contact-en    .email-symbol {
+        position: absolute;
+        top: 60%;
+        left: 12%;
+    }
+
+#contact-en    .contact-text1 {
+        position: absolute;
+        top: 50%;
+        left: 25%;
+    }
+
+#contact-en    .contact-text2 { 
+        position: absolute;
+        top: 66%;
+    }
+
+#contact-en    .email {
+        position: absolute;
+        top: 85%;
+        left: 2%;
+    }
+
+ /* Arabic main menu */ 
+ 
+#menu-ar .navbar .logo .img {
+    width: 85%;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+}
+
+
+#menu-ar .navlinks {
+    position: absolute;
+    top: 50%;
+    left: 28%;
+}
+
+/* About page Arabic /*
+
+
+#about-ar    .navbar .logo .img  {
+
+        width: 45%;
+
+    }
+    
+/* Products page Arabic */ 
+
+#products-ar .mazzag-logo .mazzag-pic {
+        position: absolute;
+        top: 23%;
+        left: 30%;
+    }
+
+
+#products-ar    .products-text {
+        position:absolute;
+        top: 30%;
+        left: 30%;
+        color: yellow;
+        z-index: 100;
+    }
+
+#products-ar    .palm-img .palm-pic {
+        position: absolute;
+        top: 10%;
+        left: 15%;
+
+
+    }
+
+#products-ar    .mazzag .mazzag-img {
+        position: absolute;
+        top: 10%;
+        left: 25%;
+
+    }
+      
+
+#products-ar    .nav-link li a {color: red;}
+
+
+#products-ar    .products-pic .products-img {
+        position:absolute;
+        left: 0;
+    }
+
+
+#products-ar    .fruit-pic .dates-pic {
+        position: absolute;
+        left: 15%;
+    }
+
+#products-ar    .mazzag-logooo .mazzag-pics {
+
+        position: absolute;
+        left: 30%;
+        }
+        
+        /* contact page Arabic */ 
+        
+#contact-ar .logo .img {
+        width: 300px;
+        position: absolute;
+        top: 8%;
+        left: 20%;
+    }
+
+
+#contact-ar    .nav-link {
+        width: 360px;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 110%;
+        left: 15%;
+        font-size: 35px;
+
+    }
+
+#contact-ar    .email-symbol {
+        position: absolute;
+        top: 52%;
+        left: 48%;
+    }
+
+#contact-ar    .contact-text1 {
+        position: absolute;
+        top: 50%;
+        left: 30%;
+        font-size: 40px;
+    }
+
+#contact-ar    .contact-text2 { 
+        position: absolute;
+        top: 70%;
+    }
+
+#contact-ar    .email {
+        position: absolute;
+        top: 100%;
+        left: 2%;
+    }
+        
+}
+
+
+
+
+
+
 
 
     
