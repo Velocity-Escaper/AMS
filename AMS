@@ -743,8 +743,351 @@ border: 0.10px solid white;
 #contact-en  .email:hover {transition: 1s; color: yellow;}
 
 
-                                                              /* Arabic Style */ 
+                                                              /* Arabic Style - first Arabic menu */ 
     
+#menu-ar .navbar {
+width: 100%;
+height: 100vh;                 /* controls height of the page */
+background-color: #293d3d;
+text-align: center;
+
+}
+
+
+#menu-ar .navbar .logo .img  {
+
+border-radius: 50%;
+width: 400px;
+position: relative;
+top: 20px;                 /* space from the very top side of the page */
+outline: none;
+margin: 0;
+padding: 0;
+
+}
+
+#menu-ar .logo .img:hover {border: 20px solid #293d3d; transition: 1s;}
+
+#menu-ar .navlinks {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bolder;
+font-size: 25px;
+text-transform: uppercase;
+position: relative;
+top: 60px;             /* This must be one in all menu pages or to be adapted later */
+
+}
+
+#menu-ar .navlinks li a {       /* -------- Increase space between horizontal menu items ------ */
+display:block;  
+padding: 15px;  
+color: white;      
+
+}
+
+#menu-ar  /* hover effect on navlinks */
+
+.navlinks li a:hover {             
+
+border-radius: 120px;
+background-color: darkcyan;
+padding: 16px 26px;
+transition: 0.25s;
+color: white;
+border: 1.5px solid white;
+
+
+}   
+
+
+                                                                /* about arabic style */ 
+                                                                
+
+#about-ar .navbar {
+width: 100%;
+height: 100vh;                 /* controls height of the page */
+background-color: #293d3d;
+text-align: center;
+
+}
+
+#about-ar .navbar .logo .img  {
+            border-radius: 50%;
+            width: 360px;           /* according to how long is your nav list */ 
+            position: relative;
+            top: 25px;
+            right: 0%;      
+            border-radius: 50%; 
+            outline: none;
+            margin: 0;
+            padding: 0;
+            border: 3px solid darkslategray;
+            
+}
+
+
+#about-ar .logo .img:hover {border: 12px solid #293d3d; width: 320px; transition: 1s;}
+
+#about-ar .about-text  h4 {
+    color: white;
+    font-size: 22px;
+    position: relative;
+    top: 45px;
+    left: 5px;
+}
+
+#about-ar .nav-link {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bolder;
+font-size: 22px;
+text-transform: uppercase;
+position: relative;
+top: 60px;             /* This must be one in all menu pages or to be adapted later */
+
+
+}
+
+#about-ar .nav-link li a {                    
+display:block;  
+padding: 15px;  
+color: white;   
+padding-top: 15px;   /* This line controls vertical space between list items */
+
+}
+
+#about-ar .nav-link li a:hover {             
+
+border-radius: 120px;
+background-color:darkcyan;
+padding: 16px 26px;
+transition: 0.25s;
+color:white;
+border: 0.10px solid white;
+
+
+}   
+
+                                                                    /* products page Ar style */
+                                                                    
+ #products-ar .mazzag .mazzag-img {
+    width: 200px;
+    position: absolute;
+    top: 5px;
+    left: 45%;
+}
+
+
+#products-ar .products-text  {
+    font-size: 25px;
+    color: white;
+    position:relative;
+    top: 40px;
+    background-color: transparent;
+
+}
+
+#products-ar .palm-img .palm-pic {
+    width: 360px;
+    position: absolute;
+    top: 90px;
+    left: 35%;
+    
+    
+}
+
+#products-ar .fruit-pic .dates-pic {
+    width: 360px;
+    position: absolute;
+    top: 615px;
+    left: 35%;
+}
+
+#products-ar .products-pic .products-img {
+    width: 450px;
+    position:absolute;
+    top: 980px;
+    left: 32%;
+}
+
+
+#products-ar .mazzag-logo .mazzag-pic {  /* first one before the text */
+
+    width: 250px;
+    position: absolute;
+    top: 100px;
+    left: 38%;
+}
+
+#products-ar .mazzag-logo2 .mazzag-red {
+
+    width: 250px;
+    position: absolute;
+    top: 725px;
+    left: 40%;
+
+}
+
+#products-ar .nav-link li a {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bolder;
+font-size: 25px;
+text-transform: uppercase;
+position: relative;
+top: 450px;
+right: 30%;    
+color: red; 
+
+
+}
+
+#products-ar  .nav-link li a:hover {             
+
+border-radius: 120px;
+background-color:darkcyan;
+padding: 16px 16px;
+transition: 0.25s;
+color: yellow;
+border: 0.10px solid white;
+
+
+}   
+
+
+#products-ar .mazzag-logooo .mazzag-pics {
+    width: 250px;
+    position: absolute;
+    top: 985px;
+    left: 40%;
+
+}
+
+
+                                                           /* contact ar style */
+                                                           
+  #contact-ar  .logo .img  {
+            border-radius: 50%;
+            width: 25%;           /* according to how long is your nav list */ 
+            position: absolute;
+            top: 20px;
+            left: 37%;      
+            border-radius: 50%; 
+            outline: none;
+            margin: 0;
+            padding: 0;
+            border: 3px solid darkslategray;
+            
+}
+
+#contact-ar .logo .img:hover {border: 10px solid #010048; width: 330px; transition: 1s;}
+
+#contact-ar .contact-text1 {
+
+        position:absolute;
+        top: 45%;
+        color:white;
+        left: 42.5%;
+        font-size: 40px;
+
+    }
+
+#contact-ar  .contact-text2 {
+
+        position: absolute;
+        top: 58%;
+        color: white;
+        left: 22%;
+        font-size: 40px;
+    }
+    
+#contact-ar   .email {
+
+        position: absolute;
+        top: 70%;
+        color: aqua;
+        left: 38%;
+        font-size: 40px;
+    }
+    
+    
+#contact-ar   .email-symbol {
+
+        position: absolute;
+        top: 63%;
+        left: 30%;
+        font-size: 90px;
+        color: yellow;
+        
+    }    
+    
+    
+#contact-ar .email-symbol:hover {
+
+        transition: 1s;
+        color: aqua;
+
+    }
+    
+    
+#contact-ar  .nav-link {          /* Back Button */
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       font-weight: bolder;
+       font-size: 22px;
+       text-transform: uppercase;
+       position: absolute;
+       bottom: 10%;  
+       left: 45%; 
+
+
+}
+
+#contact-ar  .nav-link li a {                    
+       display:block;  
+       padding: 15px;  
+       color: white;   
+       padding-top: 15px;   /* This line controls vertical space between list items */
+
+}
+
+
+#contact-ar .nav-link li a:hover {             
+
+border-radius: 120px;
+background-color:darkcyan;
+padding: 16px 26px;
+transition: 1s;
+color: yellow;
+border: 0.10px solid white;
+
+
+}   
+
+
+
+#contact-ar   .contact-text1:hover {transition: 1s; color: aqua;}
+#contact-ar   .contact-text2:hover {transition: 1s; color: aqua;}
+#contact-ar       .email:hover {transition: 1s; color: yellow;}
+
+
+
+
+
+    
+
+
+                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
