@@ -91,7 +91,7 @@
         
     <div class="products-text">
         <h5>
-            Our healthy brand "MazzaG" comes from SIWA oasis in Egypt which is well known for its Date fruit, Olives, Mint, Lemon, and other natural herbs!
+            Our healthy products come from SIWA oasis in Egypt which is well known for its unique Date fruit, Olives, Mint, Lemon, and other natural herbs!
         </h5>
     </div>
 
@@ -115,11 +115,6 @@
     <div class="mazzag-logo">
         <img class= "mazzag-pic" src="https://s4.gifyu.com/images/mazzag-green.jpg" alt="mazzag-green.jpg">
         </div>
-
-
-    <div class="mazzag-logo2">
-        <img class= "mazzag-red" src="https://s4.gifyu.com/images/mazzag-red.jpg" alt="mazzag-red.jpg">
-    </div>    
 
 
 
@@ -230,7 +225,7 @@
                     
     <div class="products-text">
         <h5>
-التمور والأعشاب الطبيعية الخاصة بنا تحمل اسم مـــــزاج، وتأتي من واحة سيوة بمصر من خير الطبيعة إليك مباشرة  
+     منتجاتنا الغذائية لطبيعية تأتي من واحة سيوة بدون إضافات أو مواد حافظة من خير الطبيعة إليك مباشرة 
 </h5>                                                                                                                          
     </div>
 
@@ -255,12 +250,7 @@
         <img class= "mazzag-pic" src="https://s4.gifyu.com/images/mazzag-green.jpg" alt="mazzag-green.jpg">
         </div>
 
-
-    <div class="mazzag-logo2">
-        <img class= "mazzag-red" src="https://s4.gifyu.com/images/mazzag-red.jpg" alt="mazzag-red.jpg">
-    </div>    
-
-
+  
 
     <div class="mazzag-logooo">
         <img class= "mazzag-pics" src="https://s4.gifyu.com/images/mazzag-green.jpg" alt="mazzag-green.jpg">
@@ -594,14 +584,6 @@
 }
 
 
-#products-en .mazzag-logo2 .mazzag-red {
-
-        width: 250px;
-        position: absolute;
-        top: 725px;
-        left: 40%;
-
-}
 
 
 #products-en .nav-link li a {
