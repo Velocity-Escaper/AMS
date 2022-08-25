@@ -326,7 +326,7 @@
     
             width: 100%;
             height: 100vh;                 /* controls height of the page */
-            background-color: #010048;
+            background-color: #010048;     
             text-align: center;
             
         }
@@ -456,7 +456,7 @@
 
         width: 100%;
         height: 100vh;                 /* controls height of the page */
-        background-color: #293d3d;
+        background-color: #10048;
         text-align: center;
 
 }
@@ -477,7 +477,7 @@
 }
 
 
-#about-en .logo .img:hover {border: 12px solid #293d3d; width: 320px; transition: 1s;}
+#about-en .logo .img:hover {border: 12px solid #010048; width: 320px; transition: 1s;}
 
 #about .about-text  h4 {
 
@@ -526,7 +526,7 @@
 
 
                                                      /* products english style */
-                                                     
+#products-en {background-color: #010048;}                                                     
 #products-en .mazzag .mazzag-img {
 
          width: 200px;
@@ -641,7 +641,7 @@
             
 }
 
-#contact-en .logo .img:hover {border: 10px solid aqua; width: 330px; transition: 1s;}
+#contact-en .logo .img:hover {border: 10px solid #010048; width: 330px; transition: 1s;}
 
 #contact-en  .contact-text1 {
 
@@ -1066,7 +1066,7 @@ border: 0.10px solid white;
   #menu-en  .navbar .logo .img {
         width: 85%;
         position: absolute;
-        top: 15%;
+        top: 5%;
         left: 10%;
     }
 
@@ -1082,7 +1082,7 @@ border: 0.10px solid white;
         
  #products-en  .mazzag-logo .mazzag-pic {
         position: absolute;
-        top: 23%;
+        top: 20%;
         left: 30%;
     }
 
